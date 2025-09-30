@@ -1,0 +1,2 @@
+sample_id,alert_level,anomaly_count,parameters_affected
+NPTC_0805,CRITICAL,1,protein_content

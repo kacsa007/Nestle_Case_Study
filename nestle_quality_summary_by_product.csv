@@ -1,0 +1,5 @@
+product_line,quality_score_mean,quality_score_std,quality_score_min,quality_score_max,quality_score_count,protein_content_mean,fat_content_mean,carbohydrate_content_mean
+Baby_Formula,82.65,6.96,45.3,96.0,264,12.51,3.24,46.03
+Beverage_Mix,82.7,6.53,58.8,95.3,239,12.65,3.2,46.17
+Cereal_Bar,82.79,6.67,57.1,96.3,242,12.97,3.28,46.12
+Protein_Powder,82.96,6.8,51.7,95.8,255,13.22,3.16,46.19
