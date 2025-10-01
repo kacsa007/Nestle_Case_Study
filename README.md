@@ -10,7 +10,7 @@ https://www.databricks.com/glossary/medallion-architecture
 
 # Approach
 
-| Notebook Section | Pipeline Step | How It Matches Our Data Pipeline Design | Key Concepts Showcased |
+| Notebook Section | Pipeline Step | How It Matches Our Data Pipeline Design | Concepts Showcased |
 | :-- | :-- | :-- | :-- |
 | **1. Data Generation \& Loading** | Step 1: Data Ingestion | Generates sample nutrition data mimicking lab instruments and batch files. Demonstrates how raw data would enter the system. | Data ingestion simulation, handling streaming \& batch-like data |
 | **2. Data Quality Assessment** | Step 3: Processing \& Quality Checks | Performs validation of data completeness, accuracy, and outliers—matching our Silver layer's validation step. | Data quality, validation rules, anomaly detection basics (Great Expectations style) |
