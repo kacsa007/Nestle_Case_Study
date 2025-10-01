@@ -152,7 +152,7 @@ Here is where it gets interesting! Instead of using AWS Glue, we could potential
 
 **Metaflow by Netflix** could replace some of the processing workflows. Metaflow is designed for data science workflows and makes it easy to build, deploy, and monitor data processing pipelines. It would be great for the machine learning parts where we want to predict quality scores or detect anomalies.
 
-**Is this possible?** Yes, absolutely! We could have:
+**Is this possible?** We could have:
 
 - DataHub managing our data catalog and governance
 - Metaflow orchestrating our data processing workflows
